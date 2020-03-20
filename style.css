@@ -92,3 +92,8 @@ a:hover {
 .social-icon:hover {
   color: #550a46;
 }
+
+/* Design adjustments using id (1% design remaining) */
+#introduction p {
+  margin-bottom: 40px;
+}
